@@ -1,0 +1,2 @@
+Although I created this ipynb in python3.6, but it should be able to work on any python3 environment.
+The only thing to notice during running this file is that: When running the 'Test the performance of Dijkstra based on grid size and value distribution' part, please do restart the jupyter notebook and start running from here. Because only in this part we do not use a random seed.
